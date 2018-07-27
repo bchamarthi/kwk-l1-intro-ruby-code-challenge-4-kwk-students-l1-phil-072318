@@ -11,3 +11,5 @@ def least_coins(cents)
   {:quarter => , :dime => , :nickel => , :penny => } 
   
 end
+
+least_coins(25)
