@@ -8,7 +8,7 @@ cents = gets.chomp.to_i
   penny = 1
 
 def least_coins(cents)
-  return {:quarter => , :dime => , :nickel => , :penny => } 
+  return {:quarter => :dime => :nickel => :penny => } 
   
 end
 
