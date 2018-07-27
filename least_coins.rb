@@ -11,7 +11,10 @@ cents = gets.chomp.to_i
 
 def least_coins(cents)
   
-  until 
+  until cents == 0 
+  if cents >= 25
+    puts "One quarter"
+end
   return {:quarter => , :dime => , :nickel => , :penny => } 
   
 end
