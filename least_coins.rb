@@ -4,11 +4,15 @@ cents = gets.chomp.to_i
   
   quarter = 25
   dime = 10 
-  nickel = 25
+  nickel = 5
   penny = 1
+  
+  
 
 def least_coins(cents)
-  return {:quarter => :dime => :nickel => :penny => } 
+  
+  until 
+  return {:quarter => , :dime => , :nickel => , :penny => } 
   
 end
 
