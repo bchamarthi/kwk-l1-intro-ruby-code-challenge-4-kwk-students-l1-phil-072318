@@ -10,18 +10,17 @@ cents = gets.chomp.to_i
   
 
 def least_coins(cents)
-  
-  until cents == 0 
-  if cents >= 25
-    puts "One quarter"
-end
+
+
+items = {}
+items["quarter"] = 25
+items["dime"] = 10
+items["nickel"] = 5 
+items["penny"] = 1 
+
   return {:quarter => , :dime => , :nickel => , :penny => } 
   
 end
 
 least_coins(25)
 
-items = {}
-items["24k magic CD"] =15.98
-items["mansion"] = 5000000
-items["apple watch"] = 400
