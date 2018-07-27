@@ -20,3 +20,8 @@ end
 end
 
 least_coins(25)
+
+items = {}
+items["24k magic CD"] =15.98
+items["mansion"] = 5000000
+items["apple watch"] = 400
