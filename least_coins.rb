@@ -26,7 +26,7 @@ until cents < 1
 pennies += 1 
 cents = cents - 1
 end
-  return {:quarter => quarters, :dime => dimes, :nickel => nickels, :penny => pennies} 
+  return {:quarters => quarters, :dimes => dimes, :nickels => nickels, :pennies => pennies} 
   
 end
 
