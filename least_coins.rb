@@ -17,6 +17,7 @@ items["quarter"] = 25
 items["dime"] = 10
 items["nickel"] = 5 
 items["penny"] = 1 
+until total == cents
 
   return {:quarter => , :dime => , :nickel => , :penny => } 
   
