@@ -1,4 +1,4 @@
-def
+def least_coins
 
 
 items = {}
