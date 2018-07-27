@@ -1,9 +1,4 @@
-#write out your code here
-puts "How many cents do you have?"
-cents = gets.chomp.to_i 
-
-
-def least_coins(cents)
+def
 
 
 items = {}
@@ -35,5 +30,5 @@ end
   
 end
 
-least_coins(25)
+least_coins(29)
 
